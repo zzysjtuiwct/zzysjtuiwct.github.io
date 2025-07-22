@@ -37,7 +37,7 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 - *2013.09 - 2017.06*, Undergraduate Student, School of Telecommunication Engineering, Hangzhou Dianzi University, Hangzhou.
 
 
-# 💼 Work Experience
+<h2 id="-work-experience">💼 Work Experience</h2>
 
 - *2020.03 - 2021.04*, Huawei Technologies Co., Ltd., Shanghai.
 
