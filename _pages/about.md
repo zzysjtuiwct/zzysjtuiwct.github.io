@@ -15,68 +15,77 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='biography'></span>
-# 📜 Biography
+<span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate jointly supervised by Shanghai Jiao Tong University and the Shanghai AI Lab, advised by Prof. [Yu Wang (王钰)](https://yuwangsjtu.github.io/).
+I’m currently a Ph.D. student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang (王钰)</a>. I received my Master’s degree in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2020. I received my Bachelor’s degree from Hangzhou Dianzi University in 2017.
 
-I received my B.E. degree in Information Engineering (IEEE Honor Class) from Shanghai Jiao Tong University (SJTU), Shanghai, China, in 2022. I am currently pursuing the Ph.D. degree in SJTU. Now, I have interned at the Shanghai AI Lab.
+🔬 My research focuses on:
 
-My research area lies at:
-- Retrieval augmented generation
-- NLP application in medical domain
-- Multimodal computing
-- Speech and language
+- Large Language Models
 
+- Knowledge Argumentation
 
-<span class='anchor' id='education'></span>
-# 🎓 Education
+- Dialogue Systems
 
-- *2022.09 - now*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.svg" width="23pt"></a> Ph.D. in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China
-- *2018.09 - 2022.06*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/sjtu.svg" width="23pt"></a> Bachelor in Information Engineering (IEEE Honor Class), Shanghai Jiao Tong University, Shanghai, China
+- Retrieval Augmented Generation
 
+📚 You can find my publications on <a href="https://scholar.google.com/citations?hl=zh-CN&user=OmAvpC8AAAAJ" target="_blank">Google Scholar</a>.
+
+<span id='-educations'></span>
+# 📖 Educations
+- *2021.04 - present*, Ph.D. Student, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
+- *2017.09 - 2020.03*, Master's students, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
+- *2013.09 - 2017.06*, Undergraduate Student, School of Telecommunication Engineering, Hangzhou Dianzi University, Hangzhou.
+
+<span id='-Work Experience'></span>
+# 💼 Work Experience
+- *2020.03 - 2021.04*, Huawei Technologies Co., Ltd., Shanghai.
+
+<span id='-internships'></span>
+# 💻 Internships
+- *2025.03 - present*, TAOBAO & TMALL GROUP, Hangzhou.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-**Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
-- `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Pingjie Wang, Yiqiu Guo, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [ACL 2025 Main] [[paper]](https://arxiv.org/abs/2501.02460)
-
 **EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge**
-- Zhiyuan Zhu\*, Yusheng Liao\*, `Zhe Chen`, Yuhao Wang, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- `Zhiyuan Zhu`\*, Yusheng Liao\*, Zhe Chen, Yuhao Wang, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
 - [ACL 2025 Main] [[paper]](#)
 
-**Reconstruct the Pruned Model Without Retraining**
-- Pingjie Wang, Ziqing Fan, Shengchao Hu, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [JSTSP 2025 (Journal)] [[paper]](https://ieeexplore.ieee.org/document/11002425)
+**RA2FD: Distilling Faithfulness into Efficient Dialogue Systems**
+- `Zhiyuan Zhu`, Yusheng Liao, Chenxin Xu, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [EMNLP 2024 Main] [[paper]](https://aclanthology.org/2024.emnlp-main.685)
 
-**MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**
-- Yusheng Liao\*, Shuyang Jiang\*, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [EMNLP 2024 Findings] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
+**Drawing the Line: Enhancing Trustworthiness of MLLMs Through the Power of Refusal**
+- Yuhao Wang, `Zhiyuan Zhu`, Heyang Liu, Yusheng Liao, Hongcheng Liu, Yanfeng Wang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>
+- [Arxiv 2024] [[paper]](https://arxiv.org/abs/2412.11196)
 
-**MSG-BART: Multi-Granularity Scene Graph-Enhanced Encoder-Decoder Language Model for Video-Grounded Dialogue Generation**
-- Hongcheng Liu, `Zhe Chen`, Hui Li, Pingjie Wang, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [ICASSP 2024] [[paper]](https://ieeexplore.ieee.org/abstract/document/10447469)
-
-**M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset**
-- `Zhe Chen`, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>, Yanfeng Wang
-- [ACL 2024 Main] [[paper]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
+**CE-VDG: Counterfactual Entropy-based Bias Reduction for Video-grounded Dialogue Generation**
+- Hongcheng Liu, Pingjie Wang, `Zhiyuan Zhu`, Yanfeng Wang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>
+- [COLING 2024] [[paper]](https://aclanthology.org/2024.lrec-main.264/)
 
 **Towards Optimizing Pre-trained Language Model Ensemble Learning for Task-oriented Dialogue System**
-- Zhiyuan Zhu, Yusheng Liao, `Zhe Chen`, Yu Wang<sup>✉️</sup>, Yunfeng Guan<sup>✉️</sup>
+- `Zhiyuan Zhu`, Yusheng Liao, Zhe Chen, Yu Wang<sup>✉️</sup>, Yunfeng Guan<sup>✉️</sup>
 - [DSTC 2023] [[paper]](https://aclanthology.org/2023.dstc-1.17/) [**[挑战赛冠军回顾]**](https://news.sjtu.edu.cn/jdyw/20231008/188946.html)
 
-**DialogMCF: Multimodal Context Flow for Audio Visual Scene-Aware Dialog**
-- `Zhe Chen`, Hongcheng Liu, Yu Wang<sup>✉️</sup>
-- [TASLP 2023 (Journal)] [[paper]](https://ieeexplore.ieee.org/document/10147255)
+**Contrastive Learning Based ASR Robust Knowledge Selection For Spoken Dialogue System**
+- `Zhiyuan Zhu`, Yusheng Liao, Yu Wang<sup>✉️</sup>, Yunfeng Guan<sup>✉️</sup>
+- [INTERSPEECH 2023] [[paper]](https://www.isca-archive.org/interspeech_2023/zhu23e_interspeech.html)
 
+**Advancing with RAG: Distillation for Efficient Knowledge-enhanced Dialogue Systems**
+- `Zhiyuan Zhu`, Yusheng Liao, Chenxin Xu, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [Under Review] [[paper]](#)
+
+**AnchorNet: Adaptive Anchor Token Enhancement in Videogrounded Dialogue Generation**
+- Hongcheng Liu, Pingjie Wang, Heyang Liu, `Zhiyuan Zhu`, Yusheng Liao, Yanfeng Wang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>
+- [Under Review] [[paper]](#)
 
 <span class='anchor' id='awards'></span>
 # 🏅 Selected Awards
-- *2023.04*, the first prize in Track 5 of the 11th Dialog System Technology Challenge. It was reported by [SJTU News](https://news.sjtu.edu.cn/jdyw/20231008/188946.html), [Shanghai AI Lab News](https://www.shlab.org.cn/news/5443497), [SEIEE News](https://www.seiee.sjtu.edu.cn/index_news/9112.html) and [CMIC News](https://cmic.sjtu.edu.cn/CN/show.aspx?info_lb=28&info_id=1704&flag=2).
-
-
-<span class='anchor' id='experience'></span>
-# 💻 Work Experience
-- *2024.03 - now*, Intern, Shanghai AI Lab, Shanghai, China
+- **Championship** of the 11th International Dialog System Technology Challenge (DSTC 11) Track 5. [[Report](https://www.seiee.sjtu.edu.cn/index_news/9112.html)]
+- National Scholarship.
+- Second prize in the National China Graduate Mathematical Modeling Contest.
+- Meritorious Winner of Mathematical Contest in Modeling.
+- TianYi scholarship of China Telecommunications.
+- Government scholarship of Zhejiang Province.
+- Top ten students of the School of Telecommunication Engineering.
