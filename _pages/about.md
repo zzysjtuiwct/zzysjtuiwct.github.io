@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a Ph.D. student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang (王钰)</a>. I received my Master’s degree in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2020. I received my Bachelor’s degree from Hangzhou Dianzi University in 2017.
+I’m currently a Ph.D. student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, under the supervision of Prof. [Yu Wang (王钰)](https://yuwangsjtu.github.io/). I received my Master’s degree in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2020. I received my Bachelor’s degree from Hangzhou Dianzi University in 2017.
 
 🔬 My research focuses on:
 
