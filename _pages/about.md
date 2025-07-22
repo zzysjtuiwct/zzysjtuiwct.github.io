@@ -19,7 +19,7 @@ redirect_from:
 
 I’m currently a Ph.D. student at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, under the supervision of <a href="https://yuwangsjtu.github.io/" target="_blank">Assoc. Prof. Yu Wang (王钰)</a>. I received my Master’s degree in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2020. I received my Bachelor’s degree from Hangzhou Dianzi University in 2017.
 
-🔬 My research focuses on:
+My research focuses on:
 
 - Large Language Models
 
@@ -29,7 +29,7 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 
 - Retrieval Augmented Generation
 
-📚 You can find my publications on <a href="https://scholar.google.com/citations?hl=zh-CN&user=OmAvpC8AAAAJ" target="_blank">Google Scholar</a>.
+You can find my publications on <a href="https://scholar.google.com/citations?hl=zh-CN&user=OmAvpC8AAAAJ" target="_blank">Google Scholar</a>.
 
 <span id='-educations'></span>
 # 📖 Educations
