@@ -45,7 +45,7 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 # 💻 Internships
 - *2025.03 - present*, TAOBAO & TMALL GROUP, Hangzhou.
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 
 **EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge**
@@ -80,7 +80,7 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 - Hongcheng Liu, Pingjie Wang, Heyang Liu, `Zhiyuan Zhu`, Yusheng Liao, Yanfeng Wang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>
 - [Under Review] [[paper]](#)
 
-<span class='anchor' id='awards'></span>
+<span class='anchor' id='-awards'></span>
 # 🏅 Selected Awards
 - **Championship** of the 11th International Dialog System Technology Challenge (DSTC 11) Track 5. [[Report](https://www.seiee.sjtu.edu.cn/index_news/9112.html)]
 - National Scholarship.
