@@ -34,16 +34,19 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 
 <span id='-educations'></span>
 # 📖 Educations
+
 - *2021.04 - present*, Ph.D. Student, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
 - *2017.09 - 2020.03*, Master's students, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai.
 - *2013.09 - 2017.06*, Undergraduate Student, School of Telecommunication Engineering, Hangzhou Dianzi University, Hangzhou.
 
 <span id='-Work-Experience'></span>
 # 💼 Work Experience
+
 - *2020.03 - 2021.04*, Huawei Technologies Co., Ltd., Shanghai.
 
 <span id='-internships'></span>
 # 💻 Internships
+
 - *2025.03 - present*, TAOBAO & TMALL GROUP, Hangzhou.
 
 <span class='anchor' id='-publications'></span>
@@ -83,6 +86,7 @@ I’m currently a Ph.D. student at the School of Electronic Information and Elec
 
 <span class='anchor' id='-awards'></span>
 # 🏅 Selected Awards
+
 - **Championship** of the 11th International Dialog System Technology Challenge (DSTC 11) Track 5. [[Report](https://www.seiee.sjtu.edu.cn/index_news/9112.html)]
 - National Scholarship.
 - Second prize in the National China Graduate Mathematical Modeling Contest.
